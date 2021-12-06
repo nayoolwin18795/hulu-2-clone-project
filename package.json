@@ -18,10 +18,10 @@
     "tailwind-scrollbar-hide": "^1.0.3"
   },
   "devDependencies": {
-    "autoprefixer": "^10.2.6",
+    "autoprefixer": "^10.4.0",
     "eslint": "7.30.0",
     "eslint-config-next": "11.0.1",
-    "postcss": "^8.3.5",
-    "tailwindcss": "^2.2.4"
+    "postcss": "^8.4.4",
+    "tailwindcss": "^2.2.19"
   }
 }
